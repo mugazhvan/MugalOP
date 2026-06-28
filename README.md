@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @MugalOP
-- 👀 I’m interested in SAMP Development and Texture Studio
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate with Unu Alex the Mapper in SAMP.
-- 📫 you can reach me through discord @toxicmugal5442
+# Mugaldev
+BCA Gen AI Student
+
+Currently learning:
+- Python
+- AI & Machine Learning
+- Full-Stack Development
+- Data Structures & Algorithms
   
 
 
